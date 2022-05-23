@@ -1,0 +1,2 @@
+# ejerciciosEnR
+Practica para Rstudio
